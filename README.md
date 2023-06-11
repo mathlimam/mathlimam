@@ -17,8 +17,13 @@ Embora eu seja novo neste ecossistema, estou ansioso para fazer novos amigos na 
 <h2 align="center">Se você está procurando por um parceiros de projeto, você está com sorte! Estou pronto para participar. Não importa o tamanho ou a complexidade, estou pronto para assumir desafios e implementar ideias.</h2>
 
 <h3 align="center">Então, vamos nos conectar e criar algo incrível juntos? Vamos codificar o futuro!</h3>
+<br/>
+<br/>
 
-linkedin: https://www.linkedin.com/in/matheus-lima-moreira-aa9b4122a/
+<h2> Entre em contato comigo / Contact me!!</h2>
+<a href = "https://www.linkedin.com/in/matheus-lima-moreira-aa9b4122a/"><img src="https://user-images.githubusercontent.com/102155883/244977641-6a19db31-1099-49ef-a6db-188588bf6362.png"/><a>  Matheus Lima Moreira<br/>
+E-mail = math.lima.m@gmail.com
+
 <br/>
 <br/>
 
