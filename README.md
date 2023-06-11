@@ -1,21 +1,22 @@
 <h1 align="center">Hello World! 👋</h1>
 
-<h3>Bem-vindo ao meu mundo de códigos! Meu nome é Matheus, sou um entusiasta da codificação em busca de desafios empolgantes e projetos incríveis.</h3>
+<h3 align="center">Bem-vindo ao meu mundo de códigos! Meu nome é Matheus, sou um entusiasta da codificação em busca de desafios empolgantes e projetos incríveis.</h3>
 <br/>
 <div style="height:300px;" align="center">
-  <img src="https://user-images.githubusercontent.com/102155883/244966562-def2ed2c-dd46-4dfd-8c6c-e458960d844f.png" style="height:100%"/>
+  <img src="https://user-images.githubusercontent.com/102155883/244976552-bf85b95d-80d4-4bf2-95e6-e464e57a3f87.png" style="height:100%"/>
  </div>
+ <br/>
 
-Com a mente aberta ao aprendizado constante, atualmente estou imerso no universo Python, enquanto já estou me aventurando em HTML, C++, JavaScript e Java. Como um aspirante a desenvolvedor full-stack, estou determinado a evoluir cada vez mais.
+Com a mente aberta ao aprendizado <b>constante</b>, atualmente estou imerso no universo <b>Python</b>, enquanto já estou me aventurando em HTML, C++, JavaScript e Java. Como um aspirante a desenvolvedor full-stack, estou determinado a evoluir cada vez mais.
 <br/>
 
 Apaixonado por explorar novas possibilidades, eu considero aprender e criar coisas novas como um passatempo. A cada linha de código que escrevo, surge uma oportunidade de pensar em soluções criativas. Acredito que a programação é uma linguagem universal para criar o futuro.
 
 Embora eu seja novo neste ecossistema, estou ansioso para fazer novos amigos na área. Nada é mais emocionante do que compartilhar conhecimento. Estou aberto a novas conexões e trocas de ideias que possam alavancar nossas carreiras.
 
-<h2>Se você está procurando por um parceiros de projeto, você está com sorte! Estou pronto para participar. Não importa o tamanho ou a complexidade, estou pronto para assumir desafios e implementar ideias.</h2>
+<h2 align="center">Se você está procurando por um parceiros de projeto, você está com sorte! Estou pronto para participar. Não importa o tamanho ou a complexidade, estou pronto para assumir desafios e implementar ideias.</h2>
 
-Então, vamos nos conectar e criar algo incrível juntos? Vamos codificar o futuro!
+<h3 align="center">Então, vamos nos conectar e criar algo incrível juntos? Vamos codificar o futuro!</h3>
 
 linkedin: https://www.linkedin.com/in/matheus-lima-moreira-aa9b4122a/
 <br/>
