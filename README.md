@@ -1,7 +1,8 @@
-### Hello World! 👋
+# Hello World! 👋
 
 
 Bem-vindo ao meu mundo de códigos! Meu nome é Matheus, sou um entusiasta da codificação em busca de desafios empolgantes e projetos incríveis.
+<img src="https://github.com/mathlimam/mathlimam/issues/1#issue-1751582430"/>
 <img src=
 Com a mente aberta ao aprendizado constante, atualmente estou imerso no universo Python, enquanto já estou me aventurando em HTML, C++, JavaScript e Java. Como um aspirante a desenvolvedor full-stack, estou determinado a dominar cada camada da pilha de tecnologia.
 
