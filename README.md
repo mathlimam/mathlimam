@@ -6,9 +6,10 @@
   <img src="https://user-images.githubusercontent.com/102155883/244966562-def2ed2c-dd46-4dfd-8c6c-e458960d844f.png" style="height:100%"/>
  </div>
 
-Com a mente aberta ao aprendizado constante, atualmente estou imerso no universo Python, enquanto já estou me aventurando em HTML, C++, JavaScript e Java. Como um aspirante a desenvolvedor full-stack, estou determinado a dominar cada camada da pilha de tecnologia.
+Com a mente aberta ao aprendizado constante, atualmente estou imerso no universo Python, enquanto já estou me aventurando em HTML, C++, JavaScript e Java. Como um aspirante a desenvolvedor full-stack, estou determinado a evoluir cada vez mais.
+<br/>
 
-Apaixonado por explorar novas possibilidades, eu considero aprender e tentar coisas novas como um passatempo. A cada linha de código que escrevo, surge uma oportunidade de pensar em soluções criativas. Acredito que a programação é uma linguagem universal para criar o futuro.
+Apaixonado por explorar novas possibilidades, eu considero aprender e criar coisas novas como um passatempo. A cada linha de código que escrevo, surge uma oportunidade de pensar em soluções criativas. Acredito que a programação é uma linguagem universal para criar o futuro.
 
 Embora eu seja novo neste ecossistema, estou ansioso para fazer novos amigos na área. Nada é mais emocionante do que compartilhar conhecimento. Estou aberto a novas conexões e trocas de ideias que possam alavancar nossas carreiras.
 
