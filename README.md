@@ -1,10 +1,11 @@
+<div style="height:300px;" align="center">
+  <img src="https://user-images.githubusercontent.com/102155883/244976552-bf85b95d-80d4-4bf2-95e6-e464e57a3f87.png" style="height:100%"/>
+ </div>
 <h1 align="center">Hello World! 👋</h1>
 
 <h3 align="center">Bem-vindo ao meu mundo de códigos! Meu nome é Matheus, sou um entusiasta da codificação em busca de desafios empolgantes e projetos incríveis.</h3>
 <br/>
-<div style="height:300px;" align="center">
-  <img src="https://user-images.githubusercontent.com/102155883/244976552-bf85b95d-80d4-4bf2-95e6-e464e57a3f87.png" style="height:100%"/>
- </div>
+
  <br/>
 
 Com a mente aberta ao aprendizado <b>constante</b>, atualmente estou imerso no universo <b>Python</b>, enquanto já estou me aventurando em HTML, C++, JavaScript e Java. Como um aspirante a desenvolvedor full-stack, estou determinado a evoluir cada vez mais.
