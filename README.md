@@ -12,15 +12,37 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/math.lima.m.) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mathlimam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mathlimam) 
+</br>
+<div>
+  <a href="https://discord.gg/math.lima.m."><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)"/></a>
+  <a href="https://instagram.com/mathlimam"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
+  <a herf="https://linkedin.com/in/mathlimam"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+</div>
+</br>
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+</br>
+</br>
+<div>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+</div>
+</br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mathlimam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mathlimam&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mathlimam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</br>
+<div align="center" style="margin-bottom:100px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathlimam&layout=compact&theme=radical"/>
+</div>
+
+<div align="center" style="margin-bottom:100px">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mathlimam&theme=radical"/>
+</div>
+
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mathlimam&icon=0&color=0)](https://visitcount.itsvg.in)
