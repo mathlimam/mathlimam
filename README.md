@@ -15,8 +15,8 @@
 </br>
 <div>
   <a href="https://discord.gg/math.lima.m."><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)"/></a>
-  <a href="https://instagram.com/mathlimam"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-  <a herf="https://linkedin.com/in/mathlimam"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/math.lima.m"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
+  <a herf="https://www.linkedin.com/in/math-lima-moreira/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
 </div>
 </br>
 
